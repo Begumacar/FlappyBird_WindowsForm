@@ -1,0 +1,11 @@
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.exe.config
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.exe
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.pdb
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.Form1.resources
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.Properties.Resources.resources
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.GenerateResource.cache
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.exe
+C:\Users\Begüm\source\repos\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.pdb
